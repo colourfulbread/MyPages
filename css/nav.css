@@ -1,0 +1,74 @@
+.box{
+    width: 85%;
+    margin-left: 8%;
+    margin-top: 8%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+.tools{
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+.tools_title{
+    margin-top: 30px;
+}
+.tools_content{
+   margin-top: 10px;
+}
+.tools h3,h2,p{
+    color: aliceblue;
+}
+
+.class{
+  
+}
+
+.class_title{
+    margin-left: 8%;
+    float: left;/*添加浮动*/
+}
+.class_title:hover{
+    text-shadow: 0 0 10px rgb(197, 197, 197), 0 0 20px #8b8b8b, 0 0 40px #8b8b8b;
+    color: rgb(255, 255, 255);
+}
+
+.website{
+
+    margin-left: 8%;
+    display: flex;
+}
+.coding{ 
+    margin-right: 5%;  
+    float: left;/*添加浮动*/
+}
+.resource{
+    margin-right: 5%;
+    float: left;/*添加浮动*/
+}
+.ai{
+    margin-right: 5%;
+    float: left;/*添加浮动*/
+}
+.science{
+    margin-right: 5%;
+    float: left;/*添加浮动*/
+}
+.image{
+    margin-right: 5%;
+    float: left;/*添加浮动*/
+}
+.audio{
+    margin-right: 7%;
+    float: left;/*添加浮动*/
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+a:hover{
+    color:aquamarine;
+    text-decoration:dotted;
+}
+
