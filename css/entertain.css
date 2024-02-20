@@ -1,0 +1,75 @@
+.side_nav_box {
+    width: 25%;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.5;
+    margin-top:7%;
+    margin-right: 5%;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+    word-break: break-all;
+    z-index: 3;
+    float: right;
+}
+
+.box {
+    width: 80%;
+    height: auto;
+    background-color: rgb(237, 246, 255);
+    opacity: 0.5;
+    margin-top: 7%;
+    margin-left: 10%;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+    word-break: break-all;
+
+}
+
+.music_box {
+    padding-right: 2%;
+}
+
+.japen_music {
+    margin-left: 15%;
+    margin-top: 8%;
+
+}
+
+.music_club {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.musics {
+    margin-left: 19px;
+    font-size: 15px;
+    margin-top: 5px;
+
+}
+
+.music_club_intro {
+    margin-top: 5px;
+}
+
+.music_club_intro_pic {
+    margin-top: 10px;
+    margin-left: 35px;
+    float: left;
+}
+
+.music_club_intro_text {
+    margin-top: 5px;
+    font-size: 18px;
+    font-style: bold;
+}
+
+.book_box {}
+
+.game {}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

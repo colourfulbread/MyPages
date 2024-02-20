@@ -17,9 +17,6 @@ body{
     font-size: 13px;
     line-height: 22px;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
-.owner:hover {
-    
     text-shadow: 0 0 10px rgb(197, 197, 197), 0 0 20px #8b8b8b, 0 0 40px #8b8b8b;
     color: rgb(255, 255, 255);
 }
