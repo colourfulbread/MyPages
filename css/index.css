@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     overflow-y: auto; /* 允许内容区域垂直滚动 */
-   
+
 }
 body{
     overflow: hidden;
@@ -24,7 +24,7 @@ body{
     position: fixed;
     height: 60px;
     width: 100%;
-    position: absolute;       
+    position: absolute;
     top: 0;
     left: 0;
     z-index: 9999;         /* 显示在最上层 */
@@ -57,7 +57,7 @@ body{
 
 .header_textPublic:hover,
 .header_textChecked {
-    
+
     text-shadow: 0 0 10px rgb(197, 197, 197), 0 0 20px #8b8b8b, 0 0 40px #8b8b8b;
     color: rgb(255, 255, 255);
 }
@@ -88,7 +88,7 @@ body{
     opacity: 0.7;
 }
 .article_box_content{
-  
+
     padding-left: 40px;
 }
 .articles_box_content_title{
@@ -106,5 +106,5 @@ body{
 }
 .articles_box_content_title h4{
     padding-top: 10px;
-  
+
 }
