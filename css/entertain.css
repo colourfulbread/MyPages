@@ -43,8 +43,8 @@
 
 }
 
-.music_box .book_box .game_box .movie_box{
-    padding-right: 10%;
+.music_box,.book_box,.game_box,.movie_box{
+    padding-right: 1%;
 }
 
 .japen_music {
@@ -82,7 +82,9 @@
     font-style: bold;
 }
 
-.book_box {}
+.favourite_movies{
+
+}
 
 .game {
     margin-top: 10%;
